@@ -1,5 +1,8 @@
-const friends = ["Tobi", "Tola", "Pelumi", "Dele", "Bola"]
 
-console.log(friends)
+
+const  friends = ["Tobi", "Tola", ["Bestfriend Pelumi"], "Dele", "Bola"]
+
+console.log(friends[2])
+
 
 
